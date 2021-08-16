@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aibnb-clone/static/css/main.cd1aa2f3.chunk.css",
+    "main.js": "/Aibnb-clone/static/js/main.ec3e4ae2.chunk.js",
+    "main.js.map": "/Aibnb-clone/static/js/main.ec3e4ae2.chunk.js.map",
+    "runtime-main.js": "/Aibnb-clone/static/js/runtime-main.5bf2cefb.js",
+    "runtime-main.js.map": "/Aibnb-clone/static/js/runtime-main.5bf2cefb.js.map",
+    "static/js/2.ae9e66eb.chunk.js": "/Aibnb-clone/static/js/2.ae9e66eb.chunk.js",
+    "static/js/2.ae9e66eb.chunk.js.map": "/Aibnb-clone/static/js/2.ae9e66eb.chunk.js.map",
+    "index.html": "/Aibnb-clone/index.html",
+    "static/css/main.cd1aa2f3.chunk.css.map": "/Aibnb-clone/static/css/main.cd1aa2f3.chunk.css.map",
+    "static/js/2.ae9e66eb.chunk.js.LICENSE.txt": "/Aibnb-clone/static/js/2.ae9e66eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf2cefb.js",
+    "static/js/2.ae9e66eb.chunk.js",
+    "static/css/main.cd1aa2f3.chunk.css",
+    "static/js/main.ec3e4ae2.chunk.js"
+  ]
+}
