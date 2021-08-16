@@ -1,0 +1,69 @@
+.left img {
+  height: 105%;
+  width: 100%;
+}
+
+.left .imgtext {
+  position: relative;
+  top: -65%;
+  color: #ffffff;
+  text-align: center;
+  margin: 7%;
+  line-height: 80px;
+}
+
+.left {
+  max-height: 100%;
+}
+
+@media screen and (min-width: 980px) {
+  .left img {
+    max-height: 65%;
+  }
+  .left .imgtext {
+    top: -60%;
+  }
+}
+
+.cards .cardbtn {
+  width: 100%;
+  height: 13rem;
+  border-radius: 20px;
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid gray;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+  -o-box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.cards :hover {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  -moz-box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  -webkit-box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+  -o-box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+.right .cards {
+  margin-left: 5%;
+  margin-top: 3%;
+  padding: 1%;
+}
+
+.right .cards h4 {
+  font-size: 35px;
+  font-weight: 400;
+}
+
+.right .btn {
+  border-radius: 20px;
+  font-size: 20px;
+  /* font-weight: bold; */
+}
+
+.right .nextbtn {
+  text-align: right;
+  margin-right: 5%;
+}

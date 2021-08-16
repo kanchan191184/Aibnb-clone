@@ -1,0 +1,44 @@
+.profile .img-fluid {
+  border-radius: 50%;
+  max-width: 50%;
+  height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile {
+  border: 1px solid gray;
+  padding: 20px;
+  height: 45rem;
+  max-width: auto;
+  border-radius: 40px;
+  position: relative;
+  left: 30%;
+  margin-top: 4rem;
+}
+p {
+  font-size: 20px;
+}
+h1 {
+  font-weight: bold;
+}
+.btn-link {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+hr {
+  position: relative;
+  top: 25%;
+  border-width: 1px;
+  background-color: black;
+}
+
+@media screen and (min-width: 980px) {
+  hr {
+    display: none;
+  }
+}
